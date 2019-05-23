@@ -20,3 +20,8 @@ enable its users to:
 1. Create a REST API which will support all the features. Each API endpoint
    should be able to be tested using curl or Postman.
 2. Create a web UI (See main.jpg and edit.jpg as sample UI)
+
+main.jpg --> [LINK](docs/main.jpg)
+
+edit.jpg --> [LINK](docs/edit.jpg)
+
